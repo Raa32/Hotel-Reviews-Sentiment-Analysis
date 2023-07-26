@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 200px;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+div {
+  margin-top: 20px;
+}
+
+#results {
+  max-height: 400px;
+  overflow-y: scroll;
+}
